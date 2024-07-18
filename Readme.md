@@ -80,11 +80,14 @@ The script generates an `output.json` file in the project directory with the fol
 - `size`: The relative size of the logo in the frame (0 to 1)
 - `distance`: The relative distance of the logo from the center of the frame (0 to 1)
 
-
+## demo
+watch this loom.com video to know how it works {[loom_video](https://www.loom.com/share/3babf4517a8749609e5f474f578269aa?sid=468152f8-ec71-4e8d-b7b9-a39351371822)}
 
 ## Approach
 
 For a detailed explanation of the approach used in this project, including design decisions and potential improvements, please refer to the `APPROACH.md` file in this repository.
+
+or refer to this link {https://docs.google.com/document/d/1on_U4pKK0PJOpnYT7oyJhm5ajBOXfNvwa49FeoRs8Vg/edit?usp=sharing}
 
 ## License
 
